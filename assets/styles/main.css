@@ -90,3 +90,10 @@ img {
     background-color: teal;
     text-align: center;
 }
+
+.footer-link {
+    height: 50px;
+    width: 50px;
+    padding-bottom: 10px;
+
+}
