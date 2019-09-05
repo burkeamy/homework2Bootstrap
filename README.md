@@ -1,2 +1,5 @@
-# homework2Bootstrap
-homework assignment 2, bootstrap website
+#Amy Burkes portfolio
+
+This is Amy Burke’s portfolio, originally created as the second homework assignment for UNC coding bootcamp. This page was created using HTML 5, CSS3 and bootstrap. 
+
+![About Amy page](/assets/images/aboutAmyPage.png)

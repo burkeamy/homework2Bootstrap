@@ -1,10 +1,13 @@
+body {
+    color: white;
+}
 
+.index-info {
+    color: rgb(27, 26, 26);
+}
 
-nav {
-    border-bottom: 1px solid teal;
-    padding: 10px 30px 10px 40px;
-    clear: both;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.form-group {
+    color: rgb(27, 26, 26);
 }
 
 .navbar-brand {
@@ -15,7 +18,14 @@ nav {
     padding: -5px;
     margin-right: 45%;
     text-align: center;
-    color: white;
+    font-family: cursive;
+}
+
+nav {
+    border-bottom: 1px solid teal;
+    padding: 10px 30px 10px 40px;
+    clear: both;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .nav-item {
@@ -69,12 +79,14 @@ footer{
 img {
     width: 150px;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .img-thumbnail {
     height: 150px;
     float: left;
     margin-right: 5px;
+    border-radius: 20%;
 }
 
 .rotate {
@@ -96,4 +108,18 @@ img {
     width: 50px;
     padding-bottom: 10px;
 
+}
+
+.img-section {
+    margin: 15px;
+}
+
+a:hover { 
+    background-color: teal;
+    color: white;
+}
+
+.btn-primary {
+    background-color: teal;
+    margin-bottom: 1%;
 }
